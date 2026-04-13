@@ -4,7 +4,7 @@
 
 ---
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px"> About Me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px">
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
@@ -49,8 +49,5 @@
   <img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku">
 </p>
 
----
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="180">
-</p>
+
