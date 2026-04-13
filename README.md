@@ -10,11 +10,11 @@
 
 ¡Hola! Soy **Desarrollador Full Stack** y estudiante de **Ingeniería de Sistemas (9no Semestre)** en la UAGRM. Me especializo en la arquitectura e implementación de plataformas web y móviles de alto rendimiento.
 
-Mi enfoque principal es la integración de tecnologías disruptivas como **Inteligencia Artificial**, **Visión Computacional** y **Realidad Aumentada**, transformando requerimientos complejos en soluciones escalables.
+Mi enfoque principal es la integración de tecnologías disruptivas como **Inteligencia Artificial**, **Blockchain** y **Realidad Aumentada**, transformando requerimientos complejos en soluciones escalables y seguras.
 
-*  **Proyectos destacados:** "CoachVirtual" y Sistemas de Planificación Académica.
-* **Especialidad:** Spring Boot, React, Angular, Django y Flutter.
-*  **Enfoque:** Optimización de procesos operativos y arquitectura de software.
+*  **Actualmente:** Desarrollando un software de Autogestión Inmobiliaria con **Blockchain** y **Smart Contracts**.
+*  **Proyectos clave:** "CoachVirtual", Sistemas de Planificación Académica y soluciones 3D AR.
+*  **Especialidad:** Spring Boot, React, Angular, Django y Flutter.
 
 <br clear="right">
 
@@ -36,22 +36,23 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 
 ###  IA Aplicada y Modelos Local/Cloud
 <p align="left">
-  <img height="40" src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-ar21.svg" alt="Gemini">
+  <img height="40" src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini">
   <img height="40" src="https://img.shields.io/badge/LM_Studio-61D9FB?style=for-the-badge&logo=ai&logoColor=white" alt="LM Studio">
   <img height="40" src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM">
   <img height="40" src="https://img.shields.io/badge/ElevenLabs-1d3d3d?style=for-the-badge" alt="ElevenLabs">
   <img height="40" src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI Studio">
 </p>
 
-###  Arquitectura y Herramientas CASE
+###  Arquitectura, CASE y Web3
 <p align="left">
+  <img height="40" src="https://img.shields.io/badge/Blockchain-333333?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain">
+  <img height="40" src="https://img.shields.io/badge/Smart_Contracts-FFCA28?style=for-the-badge&logo=solidity&logoColor=black" alt="Smart Contracts">
   <img height="40" src="https://img.shields.io/badge/StarUML-AA0000?style=for-the-badge&logo=staruml&logoColor=white" alt="StarUML">
-  <img height="40" src="https://img.shields.io/badge/Enterprise_Architect-005A9C?style=for-the-badge" alt="Architect">
   <img height="40" src="https://img.shields.io/badge/Lucidchart-FF691F?style=for-the-badge&logo=lucid&logoColor=white" alt="Lucidchart">
   <img height="40" src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io">
 </p>
 
-###  Gestión de Proyectos y Bases de Datos
+###  Gestión y Bases de Datos
 <p align="left">
   <img height="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira">
   <img height="40" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="Trello">
@@ -63,14 +64,10 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 
 ---
 
-## Experiencia y Proyectos Clave
+##  Experiencia y Proyectos Clave
 
-* **Sistema Planificador Académico (UAGRM):** Implementación de algoritmos de ruta crítica (CPM).
-* **CoachVirtual:** Webapp de entrenamiento con detección de postura en tiempo real mediante MediaPipe.
-* **Generador de Código IA:** Herramienta que genera Backend y Frontend mediante comandos de voz.
+* **Software Inmobiliario Blockchain:** Sistema de autogestión con contratos inteligentes y visualización de propiedades en **Realidad Aumentada 3D**.
+* **Sistema Planificador Académico (UAGRM):** Optimización de rutas críticas (CPM) para estudiantes universitarios.
+* **CoachVirtual:** Webapp con visión computacional para corrección de postura en tiempo real.
+* **Generador de Código IA:** Automatización de Backend y Frontend mediante procesamiento de lenguaje natural.
 
----
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="180">
-</p>
