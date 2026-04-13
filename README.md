@@ -12,9 +12,9 @@
 
 Mi enfoque principal es la integración de tecnologías disruptivas como **Inteligencia Artificial**, **Blockchain** y **Realidad Aumentada**, transformando requerimientos complejos en soluciones escalables y seguras.
 
-*  **Actualmente:** Desarrollando un software de Autogestión Inmobiliaria con **Blockchain** y **Smart Contracts**.
-*  **Proyectos clave:** "CoachVirtual", Sistemas de Planificación Académica y soluciones 3D AR.
-*  **Especialidad:** Spring Boot, React, Angular, Django y Flutter.
+* **Actualmente:** Desarrollando un software de Autogestión Inmobiliaria con **Blockchain** y **Smart Contracts**.
+* **Proyectos clave:** "CoachVirtual", Sistemas de Planificación Académica y soluciones 3D AR.
+* **Especialidad:** Spring Boot, React, Angular, Django y Flutter.
 
 <br clear="right">
 
@@ -34,7 +34,7 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
   <img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter">
 </p>
 
-###  IA Aplicada y Modelos Local/Cloud
+###  IA Aplicada
 <p align="left">
   <img height="40" src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini">
   <img height="40" src="https://img.shields.io/badge/LM_Studio-61D9FB?style=for-the-badge&logo=ai&logoColor=white" alt="LM Studio">
@@ -57,7 +57,7 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
   <img height="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira">
   <img height="40" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="Trello">
   <img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB">
-  <img height="40" src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-ar21.svg" alt="SQL Server">
+  <img height="40" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL">
   <img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL">
 </p>
@@ -70,4 +70,3 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 * **Sistema Planificador Académico (UAGRM):** Optimización de rutas críticas (CPM) para estudiantes universitarios.
 * **CoachVirtual:** Webapp con visión computacional para corrección de postura en tiempo real.
 * **Generador de Código IA:** Automatización de Backend y Frontend mediante procesamiento de lenguaje natural.
-
