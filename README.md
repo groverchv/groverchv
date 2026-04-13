@@ -1,3 +1,5 @@
+<img src="<img width="1440" height="720" alt="1776053455860-019d8508-8a1a-7b0c-b88a-15869449d207" src="https://github.com/user-attachments/assets/79cef06c-46bf-4539-8fed-ffd8766ffc71" />
+" width="300">
 <p align="right">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250">
 </p>
