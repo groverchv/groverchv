@@ -39,7 +39,9 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
   <img height="40" src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini">
   <img height="40" src="https://img.shields.io/badge/LM_Studio-61D9FB?style=for-the-badge&logo=ai&logoColor=white" alt="LM Studio">
   <img height="40" src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM">
+  <img height="40" src="https://img.shields.io/badge/LMSYS_Arena-FF9900?style=for-the-badge&logo=rocket&logoColor=white" alt="LMSYS Arena">
   <img height="40" src="https://img.shields.io/badge/ElevenLabs-1d3d3d?style=for-the-badge" alt="ElevenLabs">
+  <img height="40" src="https://img.shields.io/badge/Stitch_AI-FF69B4?style=for-the-badge&logo=flask&logoColor=white" alt="Stitch AI">
   <img height="40" src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI Studio">
 </p>
 
