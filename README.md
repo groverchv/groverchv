@@ -77,3 +77,10 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 * **Sistema Planificador Académico (UAGRM):** Optimización de rutas críticas (CPM) para estudiantes universitarios.
 * **CoachVirtual:** Webapp con visión computacional para corrección de postura en tiempo real.
 * **Generador de Código IA:** Automatización de Backend y Frontend mediante procesamiento de lenguaje natural a partir de una diagrama de clase.
+
+---
+
+## Estadísticas de Lenguajes
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GroverChoqueVillca&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+</p>
