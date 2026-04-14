@@ -62,6 +62,8 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
   <img height="40" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   <img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL">
   <img height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL">
+  <img height="40" src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="Supabase">
+  <img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite">
 </p>
 
 ---
