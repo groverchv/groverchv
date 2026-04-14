@@ -82,5 +82,5 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 
 ## Estadísticas de Lenguajes
 <p align="center">
-  <img src="https://github-readme-stats-git-masterhstq.vercel.app/api/top-langs/?username=GroverChoqueVillca&layout=compact&theme=dracula&title_color=00f2ff&icon_color=00f2ff&text_color=fff&bg_color=00000000&hide_border=true" alt="Estadísticas de Lenguajes" />
+  <img src="https://metrics.lecoq.io/GroverChoqueVillca?base=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=terminal" alt="Metrics" />
 </p>
