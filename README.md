@@ -81,6 +81,14 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 ---
 
 ## Estadísticas de Lenguajes
-<p align="center">
-  <img src="https://metrics.lecoq.io/GroverChoqueVillca?base=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=terminal" alt="Metrics" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-45%25-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-15%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-10%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Otros-5%25-444444?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GroverChoqueVillca&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=490" alt="Cargando estadísticas dinámicas..." />
 </p>
