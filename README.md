@@ -81,11 +81,19 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 ---
 
 ## Estadísticas de Lenguajes
+---
+
+## 📊 Mi Actividad en Tiempo Real
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=groverchv&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Mis Lenguajes Reales" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=groverchv&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=groverchv&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=groverchv&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Lenguajes" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=groverchv&theme=tokyo-night&hide_border=true&area=true" alt="Actividad" />
 </p>
 
