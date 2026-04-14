@@ -8,7 +8,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px">
 
-¡Hola! Soy **Desarrollador Full Stack** y estudiante de **Ingeniería de Sistemas (9no Semestre)** en la UAGRM. Me especializo en la arquitectura e implementación de plataformas web y móviles de alto rendimiento.
+¡Hola! Soy **Desarrollador Full Stack** y estudiante de **Ingeniería de Sistemas (Último Semestre)** en la UAGRM. Me especializo en la arquitectura e implementación de plataformas web y móviles de alto rendimiento.
 
 Mi enfoque principal es la integración de tecnologías disruptivas como **Inteligencia Artificial**, **Blockchain** y **Realidad Aumentada**, transformando requerimientos complejos en soluciones escalables y seguras.
 
