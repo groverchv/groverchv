@@ -84,7 +84,7 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=groverchv&theme=vision-friendly-dark&hide_border=false&layout=compact" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=groverchv&theme=vision-friendly-dark&hide_border=false" width="100%" alt="Top Languages" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=groverchv&theme=vision-friendly-dark&hide_border=false&show_icons=true" width="100%" alt="GitHub Stats" />
