@@ -29,6 +29,9 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
   <img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python">
   <img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django">
   <img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript">
+  <img height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript">
+  <img height="40" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg" alt="C++">
+  <img height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="C#">
   <img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React">
   <img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular">
   <img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter">
@@ -73,4 +76,4 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 * **Software Inmobiliario Blockchain:** Sistema de autogestión con contratos inteligentes y visualización de propiedades en **Realidad Aumentada 3D**.
 * **Sistema Planificador Académico (UAGRM):** Optimización de rutas críticas (CPM) para estudiantes universitarios.
 * **CoachVirtual:** Webapp con visión computacional para corrección de postura en tiempo real.
-* **Generador de Código IA:** Automatización de Backend y Frontend mediante procesamiento de lenguaje natural.
+* **Generador de Código IA:** Automatización de Backend y Frontend mediante procesamiento de lenguaje natural a partir de una diagrama de clase.
