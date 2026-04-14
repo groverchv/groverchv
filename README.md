@@ -81,11 +81,16 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 ---
 
 ## Estadísticas de Lenguajes
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GroverChoqueVillca&layout=compact&hide_border=true&theme=dracula&custom_title=Estadísticas%20de%20Desarrollo&langs_count=8" alt="Gráfico de Lenguajes" />
-</p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GroverChoqueVillca&layout=compact&theme=vision-friendly-dark" alt="Opción 1" />
+<img src="https://github-readme-top-languages.vercel.app/api?username=GroverChoqueVillca&layout=compact&theme=dracula" alt="Opción 2" />
+<img src="https://metrics.lecoq.io/GroverChoqueVillca?base=0&languages=1&languages.sections=most-used&theme=tokyonight" alt="Opción 3" />
+### 📊 Estadísticas de Desarrollo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GroverChoqueVillca&theme=tokyonight&show_icons=true&layout=compact" alt="Gráfico Barras Tech" />
-</p>
+| Lenguaje | Nivel / Uso | Porcentaje |
+| :--- | :--- | :--- |
+| **Java / Spring Boot** | ![barra](https://progress-bar.dev/85/?scale=100&title=Uso&color=007396&width=200) | 85% |
+| **JavaScript / React** | ![barra](https://progress-bar.dev/70/?scale=100&title=Uso&color=f7df1e&width=200) | 70% |
+| **Python / Django** | ![barra](https://progress-bar.dev/60/?scale=100&title=Uso&color=3776ab&width=200) | 60% |
+| **TypeScript / Angular** | ![barra](https://progress-bar.dev/50/?scale=100&title=Uso&color=3178c6&width=200) | 50% |
+| **C++ / C#** | ![barra](https://progress-bar.dev/40/?scale=100&title=Uso&color=00599c&width=200) | 40% |
 
