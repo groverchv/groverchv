@@ -96,4 +96,44 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=groverchv&theme=tokyo-night&hide_border=true&area=true" alt="Actividad" />
 </p>
+---
 
+## 🛠️ Galería de Estadísticas Dinámicas (groverchv)
+
+### 🔥 Racha de Programación (Streak Stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=groverchv&theme=dark" alt="1. Dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=groverchv&theme=radical" alt="2. Radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=groverchv&theme=gruvbox" alt="3. Gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=groverchv&theme=high_contrast" alt="4. High Contrast" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=groverchv&theme=tokyonight&hide_border=true" alt="5. Tokyo Night Clean" />
+</p>
+
+### 📈 Gráficos de Actividad (Activity Graphs)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=groverchv&theme=react&area=true" alt="6. React Area" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=groverchv&theme=dracula&area=false" alt="7. Dracula Line" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=groverchv&theme=tokyo-night&bg_color=0d1117" alt="8. Deep Night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=groverchv&theme=github&hide_border=true" alt="9. GitHub Minimal" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=groverchv&theme=neon&area=true" alt="10. Neon Pulse" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=groverchv&theme=matrix" alt="20. Matrix" />
+</p>
+
+### 📊 Uso de Lenguajes (Top Languages - Mirror Servers)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=groverchv&layout=compact&theme=ocean_dark" alt="11. Ocean Compact" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=groverchv&layout=compact&theme=midnight-purple" alt="12. Midnight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=groverchv&theme=vue-dark" alt="13. Vue Dark List" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=groverchv&theme=outrun&hide_border=false" alt="14. Outrun Border" />
+</p>
+
+### 🏆 Trofeos y Resumen General
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=groverchv&theme=flat&column=4" alt="15. Trophies Flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=groverchv&theme=cyberpunk" alt="16. Trophies Cyberpunk" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=groverchv&show_icons=true&theme=radical" alt="17. Radical Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=groverchv&show_icons=true&theme=tokyonight&count_private=true" alt="18. Tokyo Stats Circle" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=groverchv&theme=jupyter" alt="19. Jupyter Theme" />
+</p>
+
+---
