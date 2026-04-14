@@ -81,12 +81,14 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 ---
 
 ## Mi Actividad
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=groverchv&theme=outrun&hide_border=false" alt="14. Outrun Border" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=groverchv&theme=outrun&hide_border=false" width="100%" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=groverchv&theme=jupyter" width="100%" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=groverchv&theme=jupyter" alt="19. Jupyter Theme" />
-</p>
-
----
