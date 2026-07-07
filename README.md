@@ -1,18 +1,14 @@
-<p align="center">
-  <img width="4096" height="2048" alt="Full Stack Developer" src="https://github.com/user-attachments/assets/5134fa2f-628f-41e8-beb7-be2f20ed9039" />
-</p>
-
-<p align="center">
-  <h3>Grover Choque Villca</h3>
+<div align="center">
+  <img width="100%" alt="Full Stack Developer" src="https://github.com/user-attachments/assets/5134fa2f-628f-41e8-beb7-be2f20ed9039" />
+  
+  <h1>Grover Choque Villca</h1>
   <strong>Full Stack Developer</strong><br>
   <em>Ingeniería en Sistemas | Universidad Autónoma Gabriel René Moreno (UAGRM)</em>
-</p>
+</div>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="40px"> About Me
-
-¡Hola! Soy Desarrollador Full Stack y estudiante de Ingeniería de Sistemas (Último Semestre) en la UAGRM. Me especializo en la arquitectura e implementación de plataformas web de alto rendimiento.
 
 <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px">
 
@@ -20,9 +16,9 @@
 
 Mi enfoque principal es la integración de tecnologías disruptivas como **Inteligencia Artificial**, **Blockchain** y **Realidad Aumentada**, transformando requerimientos complejos en soluciones escalables y seguras.
 
-* **Actualmente:** Desarrollando un software de Autogestión Inmobiliaria con **Blockchain** y **Smart Contracts**.
-* **Proyectos clave:** "CoachVirtual", Sistemas de Planificación Académica y soluciones 3D AR.
-* **Especialidad:** Spring Boot, React, Angular, Django y Flutter.
+* 🔭 **Actualmente:** Desarrollando un software de Autogestión Inmobiliaria con **Blockchain** y **Smart Contracts**.
+* 💻 **Proyectos clave:** "CoachVirtual", Sistemas de Planificación Académica y soluciones 3D AR.
+* 🚀 **Especialidad:** Spring Boot, React, Angular, Django y Flutter.
 
 <br clear="right">
 
@@ -30,7 +26,7 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 
 ## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Software_Tools.gif" width="40px"> Tecnologías y Herramientas
 
-###  Lenguajes y Frameworks
+### Lenguajes y Frameworks
 <p align="left">
   <img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java">
   <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot">
@@ -45,7 +41,7 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
   <img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter">
 </p>
 
-###  IA Aplicada
+### IA Aplicada
 <p align="left">
   <img height="40" src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini">
   <img height="40" src="https://img.shields.io/badge/LM_Studio-61D9FB?style=for-the-badge&logo=ai&logoColor=white" alt="LM Studio">
@@ -56,7 +52,7 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
   <img height="40" src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI Studio">
 </p>
 
-###  Arquitectura, CASE y Web3
+### Arquitectura, CASE y Web3
 <p align="left">
   <img height="40" src="https://img.shields.io/badge/Blockchain-333333?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain">
   <img height="40" src="https://img.shields.io/badge/Smart_Contracts-FFCA28?style=for-the-badge&logo=solidity&logoColor=black" alt="Smart Contracts">
@@ -65,7 +61,7 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
   <img height="40" src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io">
 </p>
 
-###  Gestión y Bases de Datos
+### Gestión y Bases de Datos
 <p align="left">
   <img height="40" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira">
   <img height="40" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="Trello">
@@ -79,16 +75,17 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 
 ---
 
-##  Experiencia y Proyectos Clave
+## 💼 Experiencia y Proyectos Clave
 
 * **Software Inmobiliario Blockchain:** Sistema de autogestión con contratos inteligentes y visualización de propiedades en **Realidad Aumentada 3D**.
 * **Sistema Planificador Académico (UAGRM):** Optimización de rutas críticas (CPM) para estudiantes universitarios.
 * **CoachVirtual:** Webapp con visión computacional para corrección de postura en tiempo real.
-* **Generador de Código IA:** Automatización de Backend y Frontend mediante procesamiento de lenguaje natural a partir de una diagrama de clase.
+* **Generador de Código IA:** Automatización de Backend y Frontend mediante procesamiento de lenguaje natural a partir de un diagrama de clases.
 
 ---
 
-## Mi Actividad
+## 📈 Mi Actividad
+
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -100,3 +97,18 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
   </tr>
 </table>
 
+---
+
+## 📬 Contáctame
+
+<div align="center">
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://tu-portafolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
