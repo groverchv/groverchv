@@ -78,6 +78,8 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 ## 💼 Experiencia y Proyectos Clave
 
 * **Software Inmobiliario Blockchain:** Sistema de autogestión con contratos inteligentes y visualización de propiedades en **Realidad Aumentada 3D**.
+* **[Control Financiero](https://github.com/groverchv/control-financiero):** Plataforma para la gestión y control financiero desarrollada específicamente para la Asociación de Financieros de Profesionales.
+* **[Sistema Mueblería CRUZ](https://github.com/VerixV189/CarpinteriaCruzTecnoWebSA):** Sistema vía web para la gestión integral de pedidos y producción de la mueblería.
 * **Sistema Planificador Académico (UAGRM):** Optimización de rutas críticas (CPM) para estudiantes universitarios.
 * **CoachVirtual:** Webapp con visión computacional para corrección de postura en tiempo real.
 * **Generador de Código IA:** Automatización de Backend y Frontend mediante procesamiento de lenguaje natural a partir de un diagrama de clases.
