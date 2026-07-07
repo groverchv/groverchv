@@ -17,8 +17,8 @@
 Mi enfoque principal es la integración de tecnologías disruptivas como **Inteligencia Artificial**, **Blockchain** y **Realidad Aumentada**, transformando requerimientos complejos en soluciones escalables y seguras.
 
 * 🔭 **Actualmente:** Desarrollando **Control Financiero** (plataforma con integración Blockchain) y un software de Autogestión Inmobiliaria con Smart Contracts.
-* 💻 **Proyectos clave:** Sistemas de gestión financiera, planificación académica, Web3 y soluciones 3D AR.
-* 🚀 **Especialidad:** Spring Boot, React, Node.js, Angular, Django, Flutter y Arquitecturas Descentralizadas.
+* 💻 **Proyectos clave:** Sistemas de gestión empresarial (ERP), planificación algorítmica, Web3 y soluciones 3D AR.
+* 🚀 **Especialidad:** Spring Boot, React, Vue, Laravel, Node.js, Angular, Django, Flutter y Arquitecturas Descentralizadas.
 
 <br clear="right">
 
@@ -78,11 +78,11 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 ## 💼 Experiencia y Proyectos Clave
 
 * **Control Financiero:** Plataforma integral para la gestión, administración y control financiero desarrollada para la **Asociación de Profesionales Financieros**. Cuenta con una arquitectura web moderna (React) e integra un **Ledger Blockchain** que garantiza la inmutabilidad, seguridad y auditoría transparente del patrimonio y las transacciones.
-* **Software Inmobiliario Blockchain:** Sistema de autogestión con contratos inteligentes y visualización de propiedades en **Realidad Aumentada 3D**.
-* **Sistema Mueblería CRUZ:** Sistema vía web para la gestión integral de pedidos y producción de la mueblería.
-* **Sistema Planificador Académico (UAGRM):** Optimización de rutas críticas (CPM) para estudiantes universitarios.
-* **CoachVirtual:** Webapp con visión computacional para corrección de postura en tiempo real.
-* **Generador de Código IA:** Automatización de Backend y Frontend mediante procesamiento de lenguaje natural a partir de un diagrama de clases.
+* **Plataforma Inmobiliaria Web3 & AR:** Ecosistema descentralizado (dApp) para la tokenización y autogestión de bienes raíces mediante **Smart Contracts**. Incorpora motores de **Realidad Aumentada (AR) en 3D** para la previsualización inmersiva de propiedades desde cualquier dispositivo.
+* **ERP Mueblería CRUZ:** Sistema integral de planificación de recursos empresariales (ERP) para la automatización de flujos de producción, inventario y gestión de pedidos. Arquitectura de alto rendimiento basada en el stack **Laravel 12**, **Vue.js 3**, **Inertia.js** y **TypeScript**, optimizando la cadena de suministro.
+* **Planificador Académico Inteligente (UAGRM):** Sistema algorítmico para la optimización de trayectorias académicas basado en el Método de la Ruta Crítica (CPM). Minimiza el tiempo de titulación mediante el cálculo dinámico de pre-requisitos y carga horaria.
+* **CoachVirtual (Computer Vision):** Aplicación web interactiva que emplea modelos de **Machine Learning** y **Visión Computacional** para el análisis biomecánico y corrección postural en tiempo real, promoviendo la salud ergonómica de los usuarios.
+* **Generador de Arquitecturas IA:** Herramienta de automatización de desarrollo que utiliza **Procesamiento de Lenguaje Natural (NLP)** e IA para transpilar diagramas de clases UML directamente a código fuente estructurado (Backend y Frontend), reduciendo drásticamente los tiempos de desarrollo (Time-to-Market).
 
 ---
 
