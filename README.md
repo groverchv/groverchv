@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="4096" height="2048" alt="Full Stack Developer (2)" src="https://github.com/user-attachments/assets/5134fa2f-628f-41e8-beb7-be2f20ed9039" />
+  <img width="4096" height="2048" alt="Full Stack Developer" src="https://github.com/user-attachments/assets/5134fa2f-628f-41e8-beb7-be2f20ed9039" />
 </p>
 
 <p align="center">
@@ -8,13 +8,11 @@
   <em>Ingeniería en Sistemas | Universidad Autónoma Gabriel René Moreno (UAGRM)</em>
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px">
-
 ---
 
+## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="40px"> About Me
 
-## <img src="https://raw.githu<img width="4096" height="2048" alt="Full Stack Developer (2)" src="https://github.com/user-attachments/assets/5134fa2f-628f-41e8-beb7-be2f20ed9039" />
-busercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="40px"> About Me
+¡Hola! Soy Desarrollador Full Stack y estudiante de Ingeniería de Sistemas (Último Semestre) en la UAGRM. Me especializo en la arquitectura e implementación de plataformas web de alto rendimiento.
 
 <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px">
 
