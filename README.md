@@ -16,8 +16,8 @@
 
 Mi enfoque principal es la integración de tecnologías disruptivas como **Inteligencia Artificial**, **Blockchain** y **Realidad Aumentada**, transformando requerimientos complejos en soluciones escalables y seguras.
 
-* 🔭 **Actualmente:** Desarrollando **Control Financiero** (plataforma con integración Blockchain) y un software de Autogestión Inmobiliaria con Smart Contracts.
-* 💻 **Proyectos clave:** Sistemas de gestión empresarial (ERP), planificación algorítmica, Web3 y soluciones 3D AR.
+* 🔭 **Actualmente:** Desarrollando **Control Financiero** (plataforma con integración Blockchain).
+* 💻 **Proyectos clave:** Sistemas de gestión empresarial (ERP), plataformas Web3/Smart Contracts, planificación algorítmica y soluciones 3D AR.
 * 🚀 **Especialidad:** Spring Boot, React, Vue, Laravel, Node.js, Angular, Django, Flutter y Arquitecturas Descentralizadas.
 
 <br clear="right">
