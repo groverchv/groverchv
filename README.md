@@ -3,7 +3,7 @@
   
   <h1>Grover Choque Villca</h1>
   <strong>Full Stack Developer</strong><br>
-  <em>Ingeniería en Sistemas | Universidad Autónoma Gabriel René Moreno (UAGRM)</em>
+  <em>Ingeniero de Sistemas | Universidad Autónoma Gabriel René Moreno (UAGRM)</em>
 </div>
 
 ---
@@ -12,13 +12,13 @@
 
 <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px">
 
-¡Hola! Soy **Desarrollador Full Stack** y estudiante de **Ingeniería de Sistemas (Último Semestre)** en la UAGRM. Me especializo en la arquitectura e implementación de plataformas web y móviles de alto rendimiento.
+¡Hola! Soy **Desarrollador Full Stack** e **Ingeniero de Sistemas** titulado de la UAGRM. Me especializo en la arquitectura e implementación de plataformas web y móviles de alto rendimiento.
 
 Mi enfoque principal es la integración de tecnologías disruptivas como **Inteligencia Artificial**, **Blockchain** y **Realidad Aumentada**, transformando requerimientos complejos en soluciones escalables y seguras.
 
-* 🔭 **Actualmente:** Desarrollando un software de Autogestión Inmobiliaria con **Blockchain** y **Smart Contracts**.
-* 💻 **Proyectos clave:** "CoachVirtual", Sistemas de Planificación Académica y soluciones 3D AR.
-* 🚀 **Especialidad:** Spring Boot, React, Angular, Django y Flutter.
+* 🔭 **Actualmente:** Desarrollando **Control Financiero** (plataforma con integración Blockchain) y un software de Autogestión Inmobiliaria con Smart Contracts.
+* 💻 **Proyectos clave:** Sistemas de gestión financiera, planificación académica, Web3 y soluciones 3D AR.
+* 🚀 **Especialidad:** Spring Boot, React, Node.js, Angular, Django, Flutter y Arquitecturas Descentralizadas.
 
 <br clear="right">
 
@@ -77,9 +77,9 @@ Mi enfoque principal es la integración de tecnologías disruptivas como **Intel
 
 ## 💼 Experiencia y Proyectos Clave
 
+* **Control Financiero:** Plataforma integral para la gestión, administración y control financiero desarrollada para la **Asociación de Profesionales Financieros**. Cuenta con una arquitectura web moderna (React) e integra un **Ledger Blockchain** que garantiza la inmutabilidad, seguridad y auditoría transparente del patrimonio y las transacciones.
 * **Software Inmobiliario Blockchain:** Sistema de autogestión con contratos inteligentes y visualización de propiedades en **Realidad Aumentada 3D**.
-* **[Control Financiero](https://github.com/groverchv/control-financiero):** Plataforma para la gestión y control financiero desarrollada específicamente para la Asociación de Financieros de Profesionales.
-* **[Sistema Mueblería CRUZ](https://github.com/VerixV189/CarpinteriaCruzTecnoWebSA):** Sistema vía web para la gestión integral de pedidos y producción de la mueblería.
+* **Sistema Mueblería CRUZ:** Sistema vía web para la gestión integral de pedidos y producción de la mueblería.
 * **Sistema Planificador Académico (UAGRM):** Optimización de rutas críticas (CPM) para estudiantes universitarios.
 * **CoachVirtual:** Webapp con visión computacional para corrección de postura en tiempo real.
 * **Generador de Código IA:** Automatización de Backend y Frontend mediante procesamiento de lenguaje natural a partir de un diagrama de clases.
